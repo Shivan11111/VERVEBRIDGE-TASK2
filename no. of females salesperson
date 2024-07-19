@@ -1,0 +1,2 @@
+SELECT count(Gender) FROM customer.vervebridgetask2
+where gender = "f"
