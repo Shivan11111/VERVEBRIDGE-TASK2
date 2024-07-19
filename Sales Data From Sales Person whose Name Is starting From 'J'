@@ -1,0 +1,2 @@
+select* from vervebridgetask2
+where SalesPerson like"J%"
